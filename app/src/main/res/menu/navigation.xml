@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_wallpaper"
+        android:icon="@drawable/ic_wallpaper"
+        android:title="@string/main_wallpaper" />
+    <item
+        android:id="@+id/main_music"
+        android:icon="@drawable/ic_music"
+        android:title="@string/main_music" />
+    <item
+        android:id="@+id/main_my"
+        android:icon="@drawable/ic_user"
+        android:title="@string/main_user" />
+</menu>

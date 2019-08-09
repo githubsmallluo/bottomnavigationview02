@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- main -->
+    <string name="main_wallpaper">壁纸</string>
+    <string name="main_music">铃声</string>
+    <string name="main_user">我的</string>
+    <!-- Wallpaper -->
+    <string name="recommend">推荐</string>
+    <string name="classification">分类</string>
+    <string name="local">本地</string>
+    <!-- No Network -->
+    <string name="no_network">网络出错了, </string>
+    <string name="retry">重试</string>
+    <!-- classificationText -->
+    <string-array name="classificationText">
+        <item>游戏</item>
+        <item>美女</item>
+        <item>风景</item>
+        <item>视觉创意</item>
+        <item>明星影视</item>
+        <item>汽车</item>
+        <item>萌宠动物</item>
+        <item>小清新</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>动漫卡通</item>
+        <item>情感</item>
+        <item>文字</item>
+    </string-array>
+    <string name="games">游戏</string>
+    <string name="beautiful_girl">美女</string>
+    <string name="scenery">风景</string>
+    <string name="visual_creativity">视觉创意</string>
+    <string name="star">明星影视</string>
+    <string name="car">汽车</string>
+    <string name="animal">萌宠动物</string>
+    <string name="small_fresh">小清新</string>
+    <string name="sports">体育</string>
+    <string name="military">军事</string>
+    <string name="cartoon">动漫卡通</string>
+    <string name="emotion">情感</string>
+    <string name="written_words">文字</string>
+</resources>

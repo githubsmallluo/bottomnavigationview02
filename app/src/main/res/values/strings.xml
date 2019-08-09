@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">bottomnavigationview02</string>
+    <!-- main -->
+    <string name="main_wallpaper">Wallpaper</string>
+    <string name="main_music">Music</string>
+    <string name="main_user">My</string>
+    <!-- Wallpaper -->
+    <string name="recommend">Recommend</string>
+    <string name="classification">Classification</string>
+    <string name="local">Local</string>
+    <!-- No Network -->
+    <string name="no_network">Network Error, </string>
+    <string name="retry">Retry</string>
+    <!-- classificationText -->
+    <string-array name="classificationText">
+        <item>Games</item>
+        <item>BeautifulGirl</item>
+        <item>Scenery</item>
+        <item>VisualCreativity</item>
+        <item>Star</item>
+        <item>Car</item>
+        <item>Animal</item>
+        <item>SmallFresh</item>
+        <item>Sports</item>
+        <item>Military</item>
+        <item>Cartoon</item>
+        <item>Emotion</item>
+        <item>WrittenWords</item>
+    </string-array>
+    <string name="games">Games</string>
+    <string name="beautiful_girl">BeautifulGirl</string>
+    <string name="scenery">Scenery</string>
+    <string name="visual_creativity">VisualCreativity</string>
+    <string name="star">Star</string>
+    <string name="car">Car</string>
+    <string name="animal">Animal</string>
+    <string name="small_fresh">SmallFresh</string>
+    <string name="sports">Sports</string>
+    <string name="military">Military</string>
+    <string name="cartoon">Cartoon</string>
+    <string name="emotion">Emotion</string>
+    <string name="written_words">WrittenWords</string>
+</resources>
